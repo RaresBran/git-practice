@@ -1,3 +1,7 @@
 Hello from Notepad
 Let's see this
+<<<<<<< HEAD
 change here
+=======
+change added
+>>>>>>> 06903f9b012bee96dc17b07a854619dcfeec1fa1
